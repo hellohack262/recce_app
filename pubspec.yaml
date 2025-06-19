@@ -1,0 +1,14 @@
+
+name: flutter_recce_app
+description: A new Flutter project.
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
